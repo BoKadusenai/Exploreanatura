@@ -20,7 +20,7 @@
     --color-text: #626262;
     --color-brown: #814813;
     --color-border-faq:#d8d8d8;
-    --font-display: 'Major Mono Display', monospace;
+    --font-display: 'Playfair Display SC', serif;
     --font-primary: 'Poppins', sans-serif;
     --width: 1200px;
 
@@ -43,6 +43,7 @@ img{
     padding: 0.5rem;
     color: var(--color-title);
     font-family: var(--font-display);
+    letter-spacing: 2px;
 }
 
 
