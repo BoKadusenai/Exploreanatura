@@ -1,0 +1,23 @@
+
+
+
+
+
+.natureza-section {
+    display: flex;
+    gap: 3rem;
+}
+
+.natureza-text h2{
+    font-size: 2rem;
+    margin: 1rem 0;
+    color: var(--color-brown);
+    font-family: var(--font-display);
+}
+
+.natureza-text p {
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+    margin-bottom: 1rem;
+}
+
